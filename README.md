@@ -1,7 +1,9 @@
 # ex603-Game-Telemetry-database
 
 Name- Folagbade Adetoye
+
 Chosen Theme- Game Telemetry
+
 What does the system do- Sets a record for games in terms of players and matches played
 
 This platform is intended to showcase practice of data structure. It is intended to provide insight on the relationship of how data tables relate to one another. It examines the use of entities, keys, attributes, and relationships. This allows an opportunity to practice skills relevant to the professions where working with larger data model is a core responsibility of a software engineer. It is important to understand design decisions that are made with intentionality in how the data is stored while minimizing instances of referential integrity violations. 
